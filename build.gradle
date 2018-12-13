@@ -63,7 +63,7 @@ publishing {
         MyPublication(MavenPublication) {
             from components.java
             groupId 'org.harvard.demo'
-            artifactId 'kharvarddemo'
+            artifactId 'harvarddemo'
             version project.version
         }
     }
